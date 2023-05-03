@@ -1,0 +1,2 @@
+# ignore ALL .pem files
+*.pem
