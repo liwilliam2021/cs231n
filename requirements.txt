@@ -1,0 +1,9 @@
+torch
+openai
+diffusers
+transformers
+ftfy
+opencv-python
+ipywidgets
+scipy 
+accelerate
