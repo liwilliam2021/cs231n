@@ -7,3 +7,4 @@ opencv-python
 ipywidgets
 scipy 
 accelerate
+image-similarity-measures
