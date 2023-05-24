@@ -1,2 +1,3 @@
 # ignore ALL .pem files
 *.pem
+tempImages/

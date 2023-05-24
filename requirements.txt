@@ -1,0 +1,10 @@
+torch
+openai
+diffusers
+transformers
+ftfy
+opencv-python
+ipywidgets
+scipy 
+accelerate
+image-similarity-measures
