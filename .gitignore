@@ -13,3 +13,8 @@ sd-concept-output/text_encoder/pytorch_model.bin
 sd-concept-output/tokenizer/merges.txt
 sd-concept-output/unet/diffusion_pytorch_model.bin
 sd-concept-output/vae/diffusion_pytorch_model.bin
+dreambooth-out/safety_checker/config.json
+dreambooth-out/unet/diffusion_pytorch_model.bin
+dreambooth-out/text_encoder/pytorch_model.bin
+dreambooth-out/safety_checker/pytorch_model.bin
+dreambooth-out/vae/diffusion_pytorch_model.bin
