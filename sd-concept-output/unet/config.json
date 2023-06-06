@@ -1,11 +1,16 @@
 {
   "_class_name": "UNet2DConditionModel",
   "_diffusers_version": "0.17.0.dev0",
-  "_name_or_path": "CompVis/stable-diffusion-v1-4",
+  "_name_or_path": "stabilityai/stable-diffusion-2",
   "act_fn": "silu",
   "addition_embed_type": null,
   "addition_embed_type_num_heads": 64,
-  "attention_head_dim": 8,
+  "attention_head_dim": [
+    5,
+    10,
+    20,
+    20
+  ],
   "block_out_channels": [
     320,
     640,
@@ -17,7 +22,7 @@
   "class_embeddings_concat": false,
   "conv_in_kernel": 3,
   "conv_out_kernel": 3,
-  "cross_attention_dim": 768,
+  "cross_attention_dim": 1024,
   "cross_attention_norm": null,
   "down_block_types": [
     "CrossAttnDownBlock2D",
@@ -45,7 +50,7 @@
   "resnet_out_scale_factor": 1.0,
   "resnet_skip_time_act": false,
   "resnet_time_scale_shift": "default",
-  "sample_size": 64,
+  "sample_size": 96,
   "time_cond_proj_dim": null,
   "time_embedding_act_fn": null,
   "time_embedding_dim": null,
@@ -58,5 +63,5 @@
     "CrossAttnUpBlock2D"
   ],
   "upcast_attention": false,
-  "use_linear_projection": false
+  "use_linear_projection": true
 }
