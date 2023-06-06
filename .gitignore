@@ -1,3 +1,14 @@
 # ignore ALL .pem files
 *.pem
 tempImages/
+sd-concept-output/learned_embeds-step-250.bin
+sd-concept-output/learned_embeds-step-500.bin
+sd-concept-output/learned_embeds-step-750.bin
+sd-concept-output/learned_embeds-step-1000.bin
+sd-concept-output/learned_embeds-step-1250.bin
+sd-concept-output/learned_embeds-step-1500.bin
+sd-concept-output/learned_embeds-step-1750.bin
+sd-concept-output/text_encoder/pytorch_model.bin
+sd-concept-output/tokenizer/merges.txt
+sd-concept-output/unet/diffusion_pytorch_model.bin
+sd-concept-output/vae/diffusion_pytorch_model.bin
