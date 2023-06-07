@@ -1,7 +1,7 @@
 {
   "_class_name": "UNet2DConditionModel",
   "_diffusers_version": "0.17.0.dev0",
-  "_name_or_path": "stabilityai/stable-diffusion-2",
+  "_name_or_path": "stabilityai/stable-diffusion-2-base",
   "act_fn": "silu",
   "addition_embed_type": null,
   "addition_embed_type_num_heads": 64,
@@ -50,7 +50,7 @@
   "resnet_out_scale_factor": 1.0,
   "resnet_skip_time_act": false,
   "resnet_time_scale_shift": "default",
-  "sample_size": 96,
+  "sample_size": 64,
   "time_cond_proj_dim": null,
   "time_embedding_act_fn": null,
   "time_embedding_dim": null,

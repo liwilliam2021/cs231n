@@ -1,6 +1,6 @@
 torch
 openai
-diffusers==0.8.0
+diffusers==0.9.0
 transformers
 ftfy
 opencv-python

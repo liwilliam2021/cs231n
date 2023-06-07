@@ -1,5 +1,5 @@
 {
-  "_name_or_path": "stabilityai/stable-diffusion-2",
+  "_name_or_path": "stabilityai/stable-diffusion-2-base",
   "architectures": [
     "CLIPTextModel"
   ],
