@@ -1,3 +1,6 @@
+## Main files: prompt-to-prompt/prompt-to-prompt_stable.ipynb
+- Metrics and finetuning models are stored in other folders, repo is still messy, email willzli@stanford.edu with any quesitons
+
 ---
 license: mit
 base_model: stabilityai/stable-diffusion-2-base
